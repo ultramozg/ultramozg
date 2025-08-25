@@ -1,8 +1,3 @@
----
-layout: default
-title: About Me
----
-
 # Dmitri Candu — Senior DevOps & Cloud Architect
 
 DevOps & Cloud Architect with 10+ years of experience designing secure, resilient, and scalable infrastructure. Proven track record in building modern AWS platforms from the ground up, leveraging tools like Tofu, Terragrunt, Pulumi, and Terraform.
